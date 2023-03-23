@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🫶🏽 <br> I'm Imaiez</h1>
+<h1 align="center">Hi 🏽🤙🏽 <br> I'm Imaiez</h1>
 <br><h3 align="center">I'm starting my path to web development.</h3>
 
 ## 🤙🏽 About Me 🤙🏽
